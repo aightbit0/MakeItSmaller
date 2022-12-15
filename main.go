@@ -14,7 +14,6 @@ import (
 )
 
 func main() {
-	// open "test.jpg"
 
 	for {
 		fmt.Print("Path to compress images->")
